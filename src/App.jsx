@@ -1,10 +1,13 @@
 import "./App.css";
+import Formulario from "./components/Formulario";
 
 function App() {
   return (
     <>
       <div></div>
-      <p>nuevo proyecto </p>
+      <p>Desafío3 - React </p>
+      <hr />
+      <Formulario />
     </>
   );
 }

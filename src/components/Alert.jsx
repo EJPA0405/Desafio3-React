@@ -1,8 +1,4 @@
 const Alert = () => {
-  return (
-    <>
-      <div>Alert</div>
-    </>
-  );
+  return <></>;
 };
 export default Alert;
